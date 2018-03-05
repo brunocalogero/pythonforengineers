@@ -1,6 +1,6 @@
 ## DAY 1
 
-files involved: __algebra.py__, __subprocess_demo.py__, __templating_demo.py__, __sql_demo.py
+files involved: __algebra.py__, __subprocess_demo.py__, __templating_demo.py__, __sql_demo.py__
 
 -  Understand the __Dunder__ (aka: "double-underscore") notation.
   ```
